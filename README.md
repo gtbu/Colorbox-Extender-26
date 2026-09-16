@@ -5,7 +5,7 @@
 Extends Typesetter's Colorbox implementation by additional features.
 Current version 1.1 
 
-See also [Typesetter Home](http://www.typesettercms.com), [Typesetter on GitHub](https://github.com/Typesetter/Typesetter)
+See also  [Typesetter 5 on GitHub](https://github.com/gtbu)
 
 ## Requirements ##
 * Typesetter CMS 5.0+
